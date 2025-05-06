@@ -1,0 +1,16 @@
+crewai
+fastapi
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
+langchain_pinecone
+langchain_text_splitters
+langgraph
+nest_asyncio
+pinecone
+pydantic
+PyPDF2
+python-dotenv
+Requests
+uvicorn
